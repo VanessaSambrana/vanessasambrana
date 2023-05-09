@@ -12,7 +12,8 @@
 <img align="center" alt="Van-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Van-BOOTSTRAP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
 <img align="center" alt="Van-JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">   
-<img align="center" alt="Van-SWIFT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">     
+<img align="center" alt="Van-SWIFT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+<img align="center" alt="Van-SWIFT" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />          
 </div>
 <br>
 <br>
