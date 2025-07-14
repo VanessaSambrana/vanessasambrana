@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Vanessa Sambrana
 
 - 🔭 Atualmente estou em transição de carreira, com o objetivo em Desenvolvimento IOS
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas na Fiap
-- 🌱 Faço cursos em paralelo na Alura
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas pela Fiap
+- 🌱 Faço cursos em paralelo na Alura/Udemy/Dio
 
 </div>
 <div style="display: inline_block"><br>
